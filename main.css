@@ -24,6 +24,20 @@ body {
 	height: 100%;
 }
 
+header {
+	height: 10vh;
+	display: grid;
+	-ms-flex-line-pack: center;
+	align-content: center;
+	background-color: yellowgreen;
+	margin-bottom: 1em;
+}
+
+header h1 {
+	color: black;
+	margin-left: 5vw;
+}
+
 a {
 	text-decoration: none;
 	color: yellowgreen;
